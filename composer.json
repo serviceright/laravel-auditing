@@ -1,5 +1,5 @@
 {
-    "name": "owen-it/laravel-auditing",
+    "name": "serviceright/laravel-auditing",
     "description": "Audit changes of your Eloquent models in Laravel/Lumen",
     "keywords": [
         "accountability",
@@ -39,7 +39,7 @@
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": "^8.0",
         "illuminate/console": "^5.8|^6.0|^7.0|^8.0",
         "illuminate/database": "^5.8|^6.0|^7.0|^8.0",
         "illuminate/filesystem": "^5.8|^6.0|^7.0|^8.0"
